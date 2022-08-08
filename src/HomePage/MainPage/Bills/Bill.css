@@ -1,0 +1,12 @@
+.bill-itm{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.bill-itm img{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+}
+.bill-itm p{
+    font-size: 10px;
+}

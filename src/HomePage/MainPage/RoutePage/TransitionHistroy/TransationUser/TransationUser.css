@@ -1,0 +1,28 @@
+.TransationUser{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    font-size: 12px;
+}
+.TransationUser-logo-name{
+    display: flex;
+}
+.TransationUser-logo-name img{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+.TransationUser-name-data-time{
+    margin-left: 20px;
+}
+.TransationUser-name{
+    font-size: 16px;
+    font-weight: 600;
+}
+.TransationUser-payment{
+    min-width: 60px;
+    text-align: center;
+}
+.Transation-failed{
+    color: red;
+}

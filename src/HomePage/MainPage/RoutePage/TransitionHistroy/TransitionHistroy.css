@@ -1,0 +1,14 @@
+.TransitionHistroy{
+    background-color: white;
+    padding: 20px;
+    min-height: 100vh;
+}
+.TransitionHistroy-top-dot-back{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+
+}
+.TransitionHistroy-list::-webkit-scrollbar{
+    display: none;
+}

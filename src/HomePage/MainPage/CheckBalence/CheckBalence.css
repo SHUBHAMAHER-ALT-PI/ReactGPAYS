@@ -1,0 +1,18 @@
+.CheckBalence{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+.CheckBalence-1{
+    display: flex;
+}
+.CheckBalence-2{
+    margin-left: 20px;
+    display: block;
+}
+

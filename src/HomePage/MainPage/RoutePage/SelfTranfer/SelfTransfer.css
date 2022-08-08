@@ -1,0 +1,49 @@
+.SelfTransfer{
+    background-color: white;
+    padding: 20px;
+    min-height: 100vh;
+}
+.SelfTransfer-top-dot-back{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+.SelfTransfer-body{
+    margin-top: 20px;
+}
+.Bank-details-div{
+    display: flex;
+    margin-top: 20px;
+    
+}
+.Bank-details-div-img img{
+    width: 60px;
+    height: 50px;
+    border-radius: 10px;
+    /* padding: 5px; */
+
+
+}
+.Bank-details-div-details{
+    margin-left: 20px;
+}
+.add-Bank-details-div{
+    display: flex;
+    margin-top: 20px;
+    color: blue;
+}
+.add-Bank-details-div-img{
+    width: 60px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid blue;
+    border-style: dashed;
+}
+.add-Bank-details-div-details{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.add-Bank-details-div-img1{
+    margin-top: 7px;
+}

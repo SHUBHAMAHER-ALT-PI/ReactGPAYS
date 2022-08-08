@@ -1,0 +1,16 @@
+.PaymentCategories-main{
+    width: 100px;
+    height: 60px;
+    border: 1px solid gray;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.PaymentCategory-logo{
+    margin-top: 4px;
+    color: blue;
+}
+.PaymentCategory-name{
+    /* max-width: 90px; */
+    font-size: 12px;
+}

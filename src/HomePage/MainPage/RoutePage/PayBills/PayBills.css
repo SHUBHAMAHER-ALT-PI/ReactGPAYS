@@ -1,0 +1,54 @@
+.PayBills{
+    background-color: white;
+    padding: 20px;
+    min-height: 100vh;
+
+}
+.PayBill-top-dot-back{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+
+}
+.PayBill-top-dot-back input{
+    width: 70%;
+    height: 30px;
+    border-radius: 10px;
+    /* margin-top: 30px; */
+    border: 2px solid gray;
+    /* border-left: none; */
+    outline: none;
+    padding-left: 10px;
+    
+    font-size: 16px;
+
+}
+.your-check-list-name{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.view-More-btn-check-list{
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 30px;
+    height: 30px;
+    color: blue;
+    /* background-color: rgb(183, 177, 177); */
+    margin-bottom: 10px;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+    border:  1px solid gray;
+}
+.payment-categories-list{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 10px;
+}
+.suggestForYou-list{
+    display: flex;
+    overflow-x: hidden;
+
+}

@@ -1,0 +1,17 @@
+.transition-hist{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+.transition-hist-1{
+    display: flex;
+}
+.transition-hist-2{
+    margin-left: 20px;
+    display: block;
+}

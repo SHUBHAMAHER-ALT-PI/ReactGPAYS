@@ -1,0 +1,14 @@
+
+.people-itm{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.people-itm img{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    
+}
+.people-itm p{
+    font-size: 10px;
+}

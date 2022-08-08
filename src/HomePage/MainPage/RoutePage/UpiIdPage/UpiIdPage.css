@@ -1,0 +1,61 @@
+.UpiIdPage{
+    background-color: white;
+    padding: 20px;
+    min-height: 100vh;
+
+}
+.UpiIdPage-top-dot-back{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+.UpiIdPage-body{
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+
+}
+.UpiIdPage-selection-box{
+    width: 100%;
+    margin-top: 40px;
+
+}
+.UpiIdPage-selection-box select{
+    width: 100%;
+    height: 50px;
+    padding-left: 20px;
+}
+.UpiIdPage-Qr-img{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.UpiIdPage-Qr-img img{
+    width: 100%;
+}
+.UpiIdPage-para{
+    margin-top: 20px;
+    font-weight: 600;
+}
+.UpiIdPage-btn{
+    display: flex;
+    margin-top: 200px;
+}
+.UpiIdPage-btn-button{
+    display: flex;
+    width: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 30px;
+}
+.UpiIdPage-btn-name{
+    margin-top: 15px;
+    font-size: 12px;
+    margin-left: 3px;
+    
+}
+.UpiIdPage-btn-icon{
+    margin-top: 10px;
+
+}

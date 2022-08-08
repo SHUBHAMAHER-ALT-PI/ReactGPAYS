@@ -1,0 +1,14 @@
+.MobileOperator{
+    display: flex;
+    margin-top: 20px;
+}
+.MobileOperator img{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+.MobileOperator div{
+    margin-top: 8px;
+    margin-left: 10px;
+    font-size: 14px;
+}

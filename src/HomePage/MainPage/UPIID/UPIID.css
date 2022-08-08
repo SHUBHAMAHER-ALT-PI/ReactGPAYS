@@ -1,0 +1,28 @@
+.UPIID{
+    margin-top: 15px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    vertical-align: middle;
+    text-decoration: none;
+}
+.UPIID a{
+    text-decoration: none;
+}
+.next{
+    margin-top: 8px;
+  
+}
+.UPIID-1{
+    display: flex;
+}
+.UPIID-2{
+    margin-left: 20px;
+    display: block;
+}
+.paidIcon{
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
