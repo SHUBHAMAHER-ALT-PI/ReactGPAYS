@@ -16,18 +16,18 @@ const MainRouts = () => {
   return (
     <>
      <Routes>
-        <Route path="/scan" element={<Scan/>}/>
-        <Route path="/" element={<HomePage/>}/>
-        <Route path='/PayContact' element={<PayContact/>}/>
-        <Route path='/PayPhone' element={<PayPhone/>}/>
-        <Route path='/PayinBank' element={<BankTransfer/>}/>
-        <Route path='/PayWithUpi' element={<PayWithUpi/>}/>
-        <Route path='/SelfTransfer' element={<SelfTransfer/>}/>
-        <Route path='/paybills' element={<PayBills/>}/>
-        <Route path='/MobileRecharge' element={<MobileRecharge/>}/>
-        <Route path='/UpiIdPage' element={<UpiIdPage/>}/>
-        <Route path='/TransitionHistroy' element={<TransitionHistroy/>}/>
-        <Route path='/Share' element={<Share/>}/>
+        <Route path="/ReactGPAYS/scan" element={<Scan/>}/>
+        <Route path="/ReactGPAYS" element={<HomePage/>}/>
+        <Route path='/ReactGPAYS/PayContact' element={<PayContact/>}/>
+        <Route path='/ReactGPAYS/PayPhone' element={<PayPhone/>}/>
+        <Route path='/ReactGPAYS/PayinBank' element={<BankTransfer/>}/>
+        <Route path='/ReactGPAYS/PayWithUpi' element={<PayWithUpi/>}/>
+        <Route path='/ReactGPAYS/SelfTransfer' element={<SelfTransfer/>}/>
+        <Route path='/ReactGPAYS/paybills' element={<PayBills/>}/>
+        <Route path='/ReactGPAYS/MobileRecharge' element={<MobileRecharge/>}/>
+        <Route path='/ReactGPAYS/UpiIdPage' element={<UpiIdPage/>}/>
+        <Route path='/ReactGPAYS/TransitionHistroy' element={<TransitionHistroy/>}/>
+        <Route path='/ReactGPAYS/Share' element={<Share/>}/>
         {/* <Route path="/" element={<Layout />}>
           
         </Route> */}

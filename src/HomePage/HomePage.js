@@ -38,7 +38,7 @@ const HomePage = () => {
         <div className='icon-main'>
 
           <div>
-            <Link to="/scan" >
+            <Link to="./scan" >
             <QrCodeScannerIcon />
             </Link>
             <p className="icon-name">
@@ -47,7 +47,7 @@ const HomePage = () => {
           </div>
 
           <div>
-            <Link to="/PayContact">
+            <Link to="./PayContact">
             <PermContactCalendarRoundedIcon />
             </Link>
             <p className="icon-name">
@@ -55,7 +55,7 @@ const HomePage = () => {
             </p>
           </div>
           <div>
-            <Link to="/PayPhone">
+            <Link to="./PayPhone">
             <SendToMobileRoundedIcon />
             </Link>
             <p className="icon-name">
@@ -63,7 +63,7 @@ const HomePage = () => {
             </p>
           </div>
           <div>
-            <Link to="/PayinBank">
+            <Link to="./PayinBank">
 
             <PaidRoundedIcon />
             </Link>
@@ -72,7 +72,7 @@ const HomePage = () => {
             </p>
           </div>
           <div>
-            <Link to="/PayWithUpi">
+            <Link to="./PayWithUpi">
 
             <SensorOccupiedRoundedIcon />
             </Link>
@@ -82,7 +82,7 @@ const HomePage = () => {
             </p>
           </div>
           <div>
-            <Link to="/SelfTransfer">
+            <Link to="./SelfTransfer">
 
             <CameraFrontRoundedIcon />
             </Link>
@@ -92,7 +92,7 @@ const HomePage = () => {
           </div>
 
           <div>
-            <Link to="/paybills">
+            <Link to="./paybills">
 
             <ReceiptLongRoundedIcon />
             </Link>
@@ -101,7 +101,7 @@ const HomePage = () => {
             </p>
           </div>
           <div>
-            <Link to="/MobileRecharge">
+            <Link to="./MobileRecharge">
 
             <ChargingStationRoundedIcon />
             </Link>
@@ -149,16 +149,16 @@ const HomePage = () => {
 
         </div>
         <div className="upiId-main">
-        <Link to="/UpiIdPage">
+        <Link to="./UpiIdPage">
         <UPIID/>
         </Link>
-        <Link to="/TransitionHistroy">
+        <Link to="./TransitionHistroy">
         <TransationHistroy/>
         </Link>
         <CheckBalence/>
         </div>
         <div className="imgAddress">
-          <Link to="/Share">
+          <Link to="./Share">
           <img src="https://paisawasooldeal.in/wp-content/uploads/2022/02/Google-Pay-Referral-Code-2.webp" />
           </Link>
         </div>
