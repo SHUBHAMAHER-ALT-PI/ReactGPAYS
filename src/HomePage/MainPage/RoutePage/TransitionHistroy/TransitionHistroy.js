@@ -20,7 +20,7 @@ const TransitionHistroy = () => {
   return (
     <div className="TransitionHistroy">
     <div className="TransitionHistroy-top-dot-back">
-    <Link to="/">
+    <Link to="/ReactGPAYS">
     <ArrowBackIcon/>
     </Link>
     <MoreVertIcon/>

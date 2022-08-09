@@ -9,7 +9,7 @@ const PayPhone = () => {
   return (
     <div className="main-payPhone">
     <div className="top-dot-back">
-    <Link to="/">
+    <Link to="/ReactGPAYS">
       <ArrowBackIcon/>
     </Link>
       <MoreVertIcon/>

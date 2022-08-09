@@ -10,7 +10,7 @@ const UpiIdPage = () => {
   return (
     <div className="UpiIdPage">
         <div className="UpiIdPage-top-dot-back">
-    <Link to="/">
+    <Link to="/ReactGPAYS">
     <ArrowBackIcon/>
     </Link>
    

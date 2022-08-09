@@ -8,7 +8,10 @@ const SelfTransfer = () => {
   return (
     <div className="SelfTransfer">
          <div className="SelfTransfer-top-dot-back">
+            <Link to="/ReactGPAYS">
+
       <ArrowBackIcon/>
+            </Link>
      <h4>Self Tranfer</h4>
       <MoreVertIcon/>
 

@@ -9,7 +9,7 @@ const BankTransfer = () => {
   return (
     <div className="BankTransfer">
         <div className="bank-top-dot-back">
-        <Link to="/">
+        <Link to="/ReactGPAYS">
       <ArrowBackIcon/>
     </Link>
       <p>Enter recipient details</p>

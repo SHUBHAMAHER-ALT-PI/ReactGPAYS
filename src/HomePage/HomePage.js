@@ -60,8 +60,12 @@ const HomePage = () => {
             </Link>
             <p className="icon-name">
               Pay Phone Number
+
+              
             </p>
+
           </div>
+
           <div>
             <Link to="./PayinBank">
 

@@ -23,7 +23,7 @@ const PayBills = () => {
   return (
     <div className="PayBills">
         <div className="PayBill-top-dot-back">
-        <Link to="/">
+        <Link to="/ReactGPAYS">
 
     <ArrowBackIcon/>
     </Link>

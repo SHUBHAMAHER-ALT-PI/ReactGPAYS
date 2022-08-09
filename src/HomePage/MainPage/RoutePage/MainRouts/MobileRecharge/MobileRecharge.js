@@ -34,7 +34,7 @@ const MobileRecharge = () => {
     return (
         <div className="mobile-recharge">
             <div className="mobile-recharge-top-dot-back">
-            <Link to="/">
+            <Link to="/ReactGPAYS">
                 <ArrowBackIcon />
     </Link>
                 <strong>Mobile Recharge</strong>
