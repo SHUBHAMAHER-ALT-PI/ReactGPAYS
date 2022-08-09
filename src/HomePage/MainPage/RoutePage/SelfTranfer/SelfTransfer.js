@@ -3,6 +3,7 @@ import "./SelfTransfer.css";
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import MoreVertIcon from '@mui/icons-material/MoreVert';
 import AccountBalanceIcon from '@mui/icons-material/AccountBalance';
+import { Link } from 'react-router-dom';
 const SelfTransfer = () => {
     const banks=[{name:"Central Bank Of india",img:"/", acno:"2023",accountType:"savings Account"}]
   return (
